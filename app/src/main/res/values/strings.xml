@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Akasya Door</string>
+    <string name="title_section1">Beyaz Kapı</string>
+    <string name="title_section2">Siyah Kapı</string>
+    <string name="title_section3">Kırmızı Kapı</string>
+    <string name="title_section4">Mor Kapı</string>
+    <string name="title_section5">Mavi Kapı</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Favorilere Ekle</string>
+
+
+</resources>
