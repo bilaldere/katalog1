@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Positive Door</string>
+    <string name="title_section1">Positive Door</string>
+
+    <string name="title_section2">Kabartma Model</string>
+    <string name="title_section3">Alpi Model</string>
+    <string name="title_section4">Eskitme Model</string>
+    <string name="title_section5">Laminat Kabartma</string>
+    <string name="title_section6">Ultralam Serisi</string>
+    <string name="title_section7">Laminat Model</string>
+    <string name="title_section8">Laminoks Model</string>
+    <string name="title_section9">Rustik Panel</string>
+    <string name="title_section10">Lüks Rustik Panel</string>
+    <string name="title_section11">Klasik Rustik Model</string>
+    <string name="title_section12">Sac Kapı Panel</string>
+    <string name="title_section13">Pompon Modeller</string>
+    <string name="title_section14">Bakır Kapı</string>
+    <string name="title_section15">Özel Üretim</string>
+    <string name="title_section16">Favorilerim</string>
+    <string name="title_section17">Hakkımızda</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Favorilere Ekle</string>
+
+
+</resources>
