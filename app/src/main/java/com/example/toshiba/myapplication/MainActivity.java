@@ -67,6 +67,44 @@ public class MainActivity extends Activity
             case 5:
                 mTitle = getString(R.string.title_section5);
                 break;
+            case 6:
+                mTitle = getString(R.string.title_section6);
+                break;
+            case 7:
+            mTitle = getString(R.string.title_section7);
+            break;
+            case 8:
+            mTitle = getString(R.string.title_section8);
+            break;
+            case 9:
+            mTitle = getString(R.string.title_section9);
+            break;
+            case 10:
+            mTitle = getString(R.string.title_section10);
+            break;
+            case 11:
+            mTitle = getString(R.string.title_section11);
+            break;
+            case 12:
+            mTitle = getString(R.string.title_section12);
+            break;
+            case 13:
+            mTitle = getString(R.string.title_section13);
+            break;
+            case 14:
+            mTitle = getString(R.string.title_section14);
+            break;
+            case 15:
+            mTitle = getString(R.string.title_section15);
+            break;
+            case 16:
+            mTitle = getString(R.string.title_section16);
+            break;
+            case 17:
+            mTitle = getString(R.string.title_section17);
+            break;
+
+
 
         }
     }
