@@ -4,7 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".MainActivity">
 
-    <item android:id="@+id/action_example" android:title="@string/action_example"
+    <item
+
+        android:id="@+id/action_example"
+        android:icon="@drawable/favo"
+        android:title="@string/action_example"
         android:showAsAction="withText|ifRoom" />
 
 
