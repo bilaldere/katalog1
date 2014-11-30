@@ -7,7 +7,7 @@
     <item
 
         android:id="@+id/action_example"
-        android:icon="@drawable/favo"
+
         android:title="@string/action_example"
         android:showAsAction="withText|ifRoom" />
 
