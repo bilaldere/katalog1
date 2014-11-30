@@ -102,27 +102,10 @@ public class NavigationDrawerFragment extends Fragment {
                 android.R.layout.simple_list_item_activated_1,
                 android.R.id.text1,
                 new String[]{
-
                         getString(R.string.title_section1),
                         getString(R.string.title_section2),
                         getString(R.string.title_section3),
-                        getString(R.string.title_section4),
-                        getString(R.string.title_section5),
-                        getString(R.string.title_section6),
-                        getString(R.string.title_section7),
-                        getString(R.string.title_section8),
-                        getString(R.string.title_section9),
-                        getString(R.string.title_section10),
-                        getString(R.string.title_section11),
-                        getString(R.string.title_section12),
-                        getString(R.string.title_section13),
-                        getString(R.string.title_section14),
-                        getString(R.string.title_section15),
-                        getString(R.string.title_section16),
-                        getString(R.string.title_section17),
-                        "test",
-
-
+                        "yeşil kapı"
 
                 }));
         mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
@@ -267,7 +250,7 @@ public class NavigationDrawerFragment extends Fragment {
         }
 
         if (item.getItemId() == R.id.action_example) {
-            Toast.makeText(getActivity(), "Favorilere Eklediniz", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getActivity(), "Example action.", Toast.LENGTH_SHORT).show();
             return true;
         }
 
