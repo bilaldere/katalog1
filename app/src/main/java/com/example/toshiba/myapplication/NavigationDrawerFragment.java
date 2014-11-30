@@ -120,6 +120,7 @@ public class NavigationDrawerFragment extends Fragment {
                         getString(R.string.title_section15),
                         getString(R.string.title_section16),
                         getString(R.string.title_section17),
+                        "test",
 
 
 
